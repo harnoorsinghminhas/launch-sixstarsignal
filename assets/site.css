@@ -133,3 +133,6 @@ input[type=range]{width:100%;min-height:44px;accent-color:var(--pink)}
   .two{grid-template-columns:1fr 1fr;gap:34px;align-items:start}
   .logo{height:40px}
 }
+
+/* legal-ae: the credit line beside the first SI mention (pick B; shared snippet, _gen/legal_ae.py) */
+.si-credit{margin:.75rem 0 0;font-size:.9rem;line-height:1.5;color:inherit;opacity:.85;text-align:inherit}.si-credit a{color:inherit;text-decoration:underline}
